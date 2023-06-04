@@ -9,12 +9,14 @@ public class Main {
         int intDifference = 5;
         int intQuotient = 6;
         int intModulo = 7;
+
         double doubleOperandA = 1.5;
         double doubleOperandB = 2.5;
         double doubleSum = 3.5;
         double doubleProduct = 4.5;
         double doubleDifference = 5.5;
         double doubleQuotient = 6.5;
+
         intSum = intOperandA + intOperandB;
         System.out.println("The sum using ints of " + intOperandA + " and " + intOperandB + " is " + intSum);
         intProduct = intOperandA * intOperandB;
